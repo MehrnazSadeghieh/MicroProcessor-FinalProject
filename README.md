@@ -75,6 +75,10 @@ To enjoy the Space Invader game:
 3. Follow the on-screen instructions and use the keypad to navigate menus and control the game character.
 4. Play the game, shoot enemies, and aim for victory.
 
+## Note
+
+You can see my demo video to see the project overview visually.
+
 ## Contributors
 
 This project is created and maintained by [Mehrnaz Sadeghieh]. Contributions and enhancements are welcome.
